@@ -1,4 +1,2 @@
 #React Web app for front-end
-Demo site- not mine:-
-https://agency-website-eta.vercel.app/
-
+If you want how components works in react take a look at this project. It helps me thus am sharing
