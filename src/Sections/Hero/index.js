@@ -193,7 +193,7 @@ const HeroSection = () => {
             <Circle />
             <span>iMentor</span>
           </Topic>
-          <Title>Best version of yours is yet to come !</Title>
+          <Title>We Guides you to the core!</Title>
           <SubText>
            "We sees more talent and ability within you, than you see yourself"
           </SubText>
