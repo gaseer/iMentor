@@ -157,7 +157,9 @@ const CTA = styled.button`
   display: flex;
   align-items: center;
   transition: transform 0.2s;
-
+ a {
+ color:red;
+ }
   img {
     width: 1.5rem;
   }
