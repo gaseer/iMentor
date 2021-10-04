@@ -198,7 +198,9 @@ const HeroSection = () => {
            "We sees more talent and ability within you, than you see yourself"
           </SubText>
           <CTA>
-           Keep in touch &nbsp;
+            <a href="#contact">
+             keep in touch &nbsp;
+            </a>
             <img src={arrow} alt="cta" width="100" height="100" />
           </CTA>
         </Lb>
