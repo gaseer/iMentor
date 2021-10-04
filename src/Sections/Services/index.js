@@ -327,7 +327,7 @@ const Services = () => {
       <Content ref={addToRefs}>
         <TextBlock
           topic="With us"
-          title={<h1> What are your Gains & Achivements
+          title={<h1> Your Gains & Achivements
             
           </h1>}
           subText={
