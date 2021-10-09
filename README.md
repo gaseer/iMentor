@@ -7,3 +7,4 @@ If you wants to know how components works in react take a look. It helps me thus
 - npm install 
 - npm start
 you gets acces as "localhost://3000" ctrl+click and run this project and learn how to work with JSX and know more about React components.
+test
